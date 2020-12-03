@@ -6,8 +6,7 @@ This is a demo for the application I developed in C# to aid miniature model arti
 in saving details about their paint schemes for commissions. Many projects for miniature
 model painters involve hundreds of models that include several details about paints
 and the techniques used to paint each component of the model. Having the ability to save
-and lookup details on projects helps to aid in expediting painting projects. The application
-saves details about models as well as specific paint brands used in a given project.
+and lookup details on projects helps to aid in expediting painting projects.
 
 ## Startup Dashboard
 
