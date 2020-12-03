@@ -24,17 +24,16 @@ a model, then a component, then a layer to finally display notes about that part
 paint scheme. The user can also select the paints to see specific details on the brand for
 that given paint.
 
-## Create New Project
+## Create New Project/Figure/Component
 
-TODO
+![](PS_CreateProj_demo.gif)
 
-## Create New Figure/Component/Layer
+These forms operate very similar. Extra space is for extending the program to include photos
+of the models.
 
-TODO
+## Create New Paint/Layer
 
-## Create New Paint
-
-TODO
+![](PS_CreatePaint_demo.gif)
 
 
 ## Looking Forward
