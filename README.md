@@ -39,4 +39,4 @@ of the models.
 ## Looking Forward
 This project is still being added to and will have more updates to come!
 
-### Copyright Jerry Knoch 2020
+### Copyright Jerry Knoch 2023
